@@ -1,0 +1,21 @@
+body{
+    background-image: url(BG.webp);
+    background-size: cover;
+}
+h1{
+    font-size: 70px;
+    color:cornsilk;
+    text-shadow: 2px 2px;
+}
+h2{
+    color:cornsilk;
+    text-shadow: 2px 2px;
+}
+p{
+    color:cornsilk;
+    text-shadow: 2px 2px;
+}
+li{
+    color:cornsilk;
+    text-shadow: 2px 2px;
+}

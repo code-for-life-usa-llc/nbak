@@ -1,0 +1,13 @@
+body{
+background-color: rgb(0, 0, 0);
+}
+
+h1{
+    background-color: rgb(255, 255, 255);
+    font-size: 70px;
+    color: #00ff00;
+    text-shadow: 2px 2px #ff0000;
+    text-decoration: underline;
+    text-decoration-thickness: auto;
+    
+}
